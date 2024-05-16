@@ -1,4 +1,3 @@
-
 <h1>Hi There! 👋</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micael-silva-67077621b/)](https://www.linkedin.com/in/micael-silva-67077621b/)
@@ -7,7 +6,7 @@
 <!-- [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/) -->
 
 ## Meu nome é Micael Rodrigues
-<p>[ HTML5 | CSS3 | JavaScript | PHP | JAVA | GITHUB | MySQL | PostgreSQL ]</p>
+<p style="color: red;">[ HTML5 | CSS3 | JavaScript | PHP | JAVA | GITHUB | MySQL | PostgreSQL ]</p>
 
 <!-- - 🎓 Computer Science Student @ [UFPEL](https://portal.ufpel.edu.br/) <br> -->
 - 🎓 Analista de sistemas <br>
