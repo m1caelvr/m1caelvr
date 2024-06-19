@@ -6,7 +6,10 @@
 <!-- [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/) -->
 
 ## Meu nome é Micael Rodrigues
-<p style="color: red;">[ HTML5 | CSS3 | JavaScript | PHP | JAVA | GITHUB | MySQL | PostgreSQL ]</p>
+
+micaelrodrigues.vercel.app <br>
+
+<p>[ HTML5 | CSS3 | JavaScript | PHP | JAVA | GITHUB | MySQL | PostgreSQL ]</p>
 
 <!-- - 🎓 Computer Science Student @ [UFPEL](https://portal.ufpel.edu.br/) <br> -->
 - 🎓 Analista de sistemas <br>
