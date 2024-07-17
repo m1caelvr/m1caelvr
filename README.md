@@ -8,7 +8,7 @@
 ## Meu nome é Micael Rodrigues
 <i>Acesse meu portfolio:
 <a target="_blank" rel="noopener noreferrer" href="https://micaelrodrigues.vercel.app/">micaelrodrigues.vercel.app</a></i> <br>
-<p>[ HTML5 | CSS3 | JavaScript | PHP | JAVA | GITHUB | MySQL | PostgreSQL ]</p>
+<p>[ HTML5 | CSS3 | JavaScript | PHP | JAVA | PYTHON | GITHUB | MySQL | PostgreSQL ]</p>
 
 <!-- - 🎓 Computer Science Student @ [UFPEL](https://portal.ufpel.edu.br/) <br> -->
 - 🎓 Analista de sistemas <br>
