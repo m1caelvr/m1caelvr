@@ -1,0 +1,2 @@
+BOT_PGRS_TELEFONICA=true
+BOT_CEF=false
